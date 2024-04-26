@@ -1,5 +1,5 @@
 # Array-Challenge
-array challenge code answer
+array, object, number - challenge code answer
 
 
 These are my answers
